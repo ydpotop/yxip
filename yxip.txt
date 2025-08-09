@@ -1,4 +1,6 @@
 www.visa.com.tw
+www.visa.com.sg
+www.visa.com.hk
 125.227.219.101:443#TW
 140.245.48.42:443#SG
 13.76.102.145:443#SG
